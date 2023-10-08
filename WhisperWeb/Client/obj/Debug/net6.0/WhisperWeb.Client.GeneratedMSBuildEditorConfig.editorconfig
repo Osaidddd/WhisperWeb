@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = WhisperWeb.Client
+build_property.RootNamespace = WhisperWeb.Client
+build_property.ProjectDir = C:\Users\User\Source\Repos\WhisperWeb\WhisperWeb\Client\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\User\Source\Repos\WhisperWeb\WhisperWeb\Client
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/User/Source/Repos/WhisperWeb/WhisperWeb/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Source/Repos/WhisperWeb/WhisperWeb/Client/Components/ChatsList.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDaGF0c0xpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Source/Repos/WhisperWeb/WhisperWeb/Client/Components/UsersList.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xVc2Vyc0xpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Source/Repos/WhisperWeb/WhisperWeb/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Source/Repos/WhisperWeb/WhisperWeb/Client/Pages/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Source/Repos/WhisperWeb/WhisperWeb/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Source/Repos/WhisperWeb/WhisperWeb/Client/Components/ChatDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDaGF0RGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-w2yfukudbc
+
+[C:/Users/User/Source/Repos/WhisperWeb/WhisperWeb/Client/Pages/Chat.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hhdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-3h34td6pv5
+
+[C:/Users/User/Source/Repos/WhisperWeb/WhisperWeb/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-fk8rlld7lh
